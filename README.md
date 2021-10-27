@@ -9,7 +9,7 @@
 ### Here is my Top Langs:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### My Project I Joined:
+### All Projects I Joined:
 
 <a href="https://github.com/Sennnnnnnnnnnnn/ProjectWebASP.Net">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sennnnnnnnnnnnn&repo=ProjectWebASP.Net" />
