@@ -11,3 +11,5 @@
 
 ### My Project I Joined:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sennnnnnnnnnnnn&repo=ProjectWebASP.Net)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nameishuy&repo=DACN)](https://github.com/anuraghazra/github-readme-stats)
