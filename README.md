@@ -11,7 +11,11 @@
 
 ### My Project I Joined:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sennnnnnnnnnnnn&repo=ProjectWebASP.Net)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/Sennnnnnnnnnnnn/ProjectWebASP.Net">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sennnnnnnnnnnnn&repo=ProjectWebASP.Net" />
+</a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nameishuy&repo=DACN)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/nameishuy/DACN">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nameishuy&repo=DACN" />
+</a>
 
