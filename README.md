@@ -5,7 +5,7 @@
 
 ### Connect with me:
 <a href="https://www.facebook.com/hyhy.anony/">
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/facebook.svg"/>
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/facebook.svg" style="fill: #1877F2"/>
 </a>
 
 ### Here is my stats:
