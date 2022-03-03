@@ -10,7 +10,6 @@
 
 <br />
 
-<br />
 ### Here is my stats 😘:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nameishuy&show_icons=true&theme=dracula)
 
