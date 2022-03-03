@@ -26,7 +26,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nameishuy&repo=WeCooked_App" />
 </a>
 <br/>
-<div align="center">
-  ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in)
-</div>
 <img align="center" src="https://i.pinimg.com/originals/2a/4b/64/2a4b64142ad808bfe4bf8d028cb3abce.gif"/>
