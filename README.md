@@ -5,11 +5,11 @@
 
 ### Connect with me 👇:
 <a href="https://www.facebook.com/yuhtaro.it/">
-  <img height="32" width="32" color="#1877F2;" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/facebook.svg"/>
+<img src="https://64.media.tumblr.com/58a6ef27e3b43bdda6724c6eb71e1ff4/315ea79949d1e6fb-1c/s250x400/a1f4346482ab1c8d796390838ba7d8b251b680ed.gifv" alt="this slowpoke moves"  width="250" />
 </a>
 
 <br />
-<img src="https://64.media.tumblr.com/58a6ef27e3b43bdda6724c6eb71e1ff4/315ea79949d1e6fb-1c/s250x400/a1f4346482ab1c8d796390838ba7d8b251b680ed.gifv" alt="this slowpoke moves"  width="250" />
+
 <br />
 ### Here is my stats 😘:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nameishuy&show_icons=true&theme=dracula)
