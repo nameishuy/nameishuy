@@ -25,6 +25,7 @@
 <a href="https://github.com/nameishuy/WeCooked_App">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nameishuy&repo=WeCooked_App" />
 </a>
+<br/>
 <div align="center">
   ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in&layout=churchill&font=Redressed)
 </div>
