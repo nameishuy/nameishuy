@@ -3,10 +3,10 @@
 <p>I'm a 4th year student of HUTECH.</p>
 <p>I really love to find out some cool UI Design and make it. I want to be a front-end developer and more to be come a full stack developer.</p>
 
-### Connect with me by click on this below👇:
+<h2 align="center">Where To Find Me</h2>
 <div align="center">
-  <a  href="https://www.facebook.com/yuhtaro.it/">
-    <img src="https://64.media.tumblr.com/58a6ef27e3b43bdda6724c6eb71e1ff4/315ea79949d1e6fb-1c/s250x400/a1f4346482ab1c8d796390838ba7d8b251b680ed.gifv" alt="this slowpoke moves"  width="250" />
+  <a href="https://www.facebook.com/yuhtaro.it/" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="nameishuy-facebook" />
   </a>
 </div>
 <br />
