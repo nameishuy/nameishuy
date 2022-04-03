@@ -25,19 +25,6 @@
 
 <br />
 
-### All Projects I Joined ✍️:
-
-<a href="https://github.com/nameishuy/BookWeb">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nameishuy&repo=BookWeb" />
-</a>
-<a href="https://github.com/SenFn/ProjectWebASP.Net">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=SenFn&repo=ProjectWebASP.Net" />
-</a>
-<br>
-<a href="https://github.com/nameishuy/WeCooked_App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nameishuy&repo=WeCooked_App" />
-</a>
-<br/>
 <h2 align="center">Random Quotes</h2>
 <div align="center"> 
   <img src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in&layout=churchill&font=Redressed"/>
