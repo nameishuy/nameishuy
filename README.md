@@ -1,7 +1,7 @@
 ### Hi there 👋
 <p>I'm Huy from VietNam and you can call me Yuh or Yuhtaro.</p>
 <p>I'm a 4th year student of HUTECH.</p>
-<p>I really love to find out some cool UI Design and make it. I want to be a front-end developer and more to be come a full stack developer.</p>
+<p>I really love to find out some cool UI Design and make it. I want to be a front-end developer and more to become a full stack developer.</p>
 
 <h2 align="center">Where To Find Me</h2>
 <div align="center">
