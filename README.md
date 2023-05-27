@@ -1,7 +1,8 @@
 ### Hi there 👋
 <p>I'm Yuhtaro from MWG</p>
-<p>I'm a fresher .NET Developer</p>
-
+<h2 align="center">My Jobs</h2>
+<p>5/2022 - 11/2022: Web Developer (ASP .NET MVC) </p>
+<p> 12/2023 - now: App Developer (React Native) </p>
 <h2 align="center">Where To Find Me</h2>
 <div align="center">
   <a href="https://www.facebook.com/yuhtaro.it/" target="blank">
