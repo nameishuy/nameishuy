@@ -55,4 +55,7 @@
 <img align="left" width="300" src="https://media3.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif"/>
 
 !---->
+<div align="center">
+    <img src="introduce.svg" width="400" height="400" alt="my-introduce">
+</div>
 
