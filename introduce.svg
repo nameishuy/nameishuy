@@ -6,6 +6,7 @@
                     flex:1,
                 }
                 #intro{
+                    transition: 2s;
                      animation: opacity 10s infinite;
                     -moz-animation: opacity 10s infinite;
                     -webkit-animation: opacity 10s infinite;
