@@ -5,6 +5,20 @@
                 .container{
                     flex:1,
                 }
+                #intro{
+                     animation: opacity 10s infinite;
+                    -moz-animation: opacity 10s infinite;
+                    -webkit-animation: opacity 10s infinite;
+                    -o-animation: opacity 10s infinite;
+                }
+                @keyframe opacity{
+                    from{
+                        opacity: 0
+                    }
+                    to{
+                        opacity: 1
+                    }
+                }
             </style>
             <div class="container">
                 <svg id="intro" width="324" height="146" viewBox="0 0 324 146" fill="none" xmlns="http://www.w3.org/2000/svg">
