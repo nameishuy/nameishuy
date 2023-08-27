@@ -6,13 +6,6 @@
                     width: 100%;
                     height: 100%
                 }
-<!--                 h2::before{
-                    content: attr(data-text);
-                    position: absolute;
-                    color: white;
-                    font-size: 10px;
-                    
-                } -->
             </style>
             <div class="container">
                 <svg  width="356" height="189" viewBox="0 0 356 189" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -36,7 +29,32 @@
                     </filter>
                     </defs>
                 </svg>
-<!--                 <h2 data-text="Connect with me">Connect with me</h2> -->
+<!--                 <div class="cardContainer">
+                    <div class="box" style="--clr:#f00;">
+                        <h2>01<br/><small>Design</small></h2>
+                        <div class="clip">
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                        </div>
+                    </div>
+                    <div class="box" style="--clr:#0f0;">
+                        <h2>02<br/><small>Code</small></h2>
+                        <div class="clip">
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                        </div>
+                    </div>
+                    <div class="box" style="--clr:#f0f;">
+                        <h2>03<br/><small>Launch</small></h2>
+                        <div class="clip">
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                        </div>
+                    </div>
+                </div> -->
             </div>
         </div>
     </foreignObject>
