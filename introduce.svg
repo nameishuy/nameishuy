@@ -1,5 +1,5 @@
-<svg fill="none" viewBox="0 0 400 200" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
-    <foreignObject width="400" height="400">
+<svg fill="none" viewBox="0 0 400 200" width="400" height="200" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="400" height="200">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
                 .container{
@@ -29,32 +29,6 @@
                     </filter>
                     </defs>
                 </svg>
-<!--                 <div class="cardContainer">
-                    <div class="box" style="--clr:#f00;">
-                        <h2>01<br/><small>Design</small></h2>
-                        <div class="clip">
-                            <span></span>
-                            <span></span>
-                            <span></span>
-                        </div>
-                    </div>
-                    <div class="box" style="--clr:#0f0;">
-                        <h2>02<br/><small>Code</small></h2>
-                        <div class="clip">
-                            <span></span>
-                            <span></span>
-                            <span></span>
-                        </div>
-                    </div>
-                    <div class="box" style="--clr:#f0f;">
-                        <h2>03<br/><small>Launch</small></h2>
-                        <div class="clip">
-                            <span></span>
-                            <span></span>
-                            <span></span>
-                        </div>
-                    </div>
-                </div> -->
             </div>
         </div>
     </foreignObject>
