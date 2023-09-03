@@ -27,20 +27,21 @@
         }
       </style>
       <div class="tags">
-        <div class="tag">Vue</div>
-        <div class="tag">React</div>
-        <div class="tag">Svelte</div>
+        <div class="tag">React Native</div>
+        <div class="tag">Java</div>
+        <div class="tag">.NET MVC</div>
         <div class="tag">Angular</div>
       </div>
       <div class="tags">
-        <div class="tag">SASS</div>
+        <div class="tag">JavaScript</div>
         <div class="tag">TypeScript</div>
-        <div class="tag">Atomic Design</div>
+        <div class="tag">Apollo Client</div>
       </div>
       <div class="tags">
+        <div class="tag">Postman</div>
+        <div class="tag">Figma, Larksuite</div>
         <div class="tag">Ionic</div>
-        <div class="tag">Electron</div>
-        <div class="tag">PWAs</div>
+        <div class="tag">Git, GitLab, GitHub</div>
       </div>
     </div>
   </foreignObject>
